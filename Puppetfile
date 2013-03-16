@@ -33,3 +33,12 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "sublime_text_2",     "1.0.0"
+github "chrome",     "1.0.0"
+github "python",     "1.0.0"
+github "macvim",     "1.0.0"
+github "macvim",     "1.0.0"
+github "mongodb",     "1.0.0"
+github "clojure",     "1.0.0"
+github "textmate",     "1.0.0"
