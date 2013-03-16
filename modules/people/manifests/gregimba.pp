@@ -6,4 +6,5 @@ class people::gregimba {
 	include mongodb
 	include macvim
 	include sublime_text_2
+	include java
 }
