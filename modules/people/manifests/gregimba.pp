@@ -1,3 +1,10 @@
 class people::gregimba {
-  include projects::all
+	$home     = '/Users/grant'
+	include chrome
+	include python
+	include textmate2::release
+	include clojure
+	include mongodb
+	include macvim
+	include sublime_text_2
 }
