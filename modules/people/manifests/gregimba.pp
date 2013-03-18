@@ -1,6 +1,7 @@
 class people::gregimba {
 	$home     = '/Users/grant'
 	include chrome
+	include chrome::canary
 	include python
 	include mongodb
 	include macvim
