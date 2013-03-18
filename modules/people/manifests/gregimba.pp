@@ -7,4 +7,6 @@ class people::gregimba {
 	include sublime_text_2
 	include iterm2::stable
 	include virtualbox
+	include java
+	inclued clojure
 }
