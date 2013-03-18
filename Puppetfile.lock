@@ -6,12 +6,12 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-chrome
   specs:
-    chrome (1.0.0)
+    chrome (1.1.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-clojure
   specs:
-    clojure (1.0.0)
+    clojure (1.2.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-dnsmasq
@@ -46,7 +46,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-java
   specs:
-    java (1.0.0)
+    java (1.0.6)
 
 GITHUBTARBALL
   remote: boxen/puppet-macvim
@@ -76,7 +76,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-python
   specs:
-    python (1.0.0)
+    python (1.1.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-ruby
@@ -86,7 +86,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-sublime_text_2
   specs:
-    sublime_text_2 (1.0.0)
+    sublime_text_2 (1.1.0)
 
 GITHUBTARBALL
   remote: boxen/puppet-sudo
@@ -96,7 +96,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-virtualbox
   specs:
-    virtualbox (1.0.0)
+    virtualbox (1.0.1)
 
 GITHUBTARBALL
   remote: boxen/puppet-xquartz
@@ -115,8 +115,8 @@ GITHUBTARBALL
 
 DEPENDENCIES
   boxen (= 1.2.0)
-  chrome (= 1.0.0)
-  clojure (= 1.0.0)
+  chrome (= 1.1.0)
+  clojure (= 1.2.0)
   dnsmasq (= 1.0.0)
   gcc (= 1.0.0)
   git (= 1.0.0)
@@ -124,18 +124,17 @@ DEPENDENCIES
   hub (= 1.0.0)
   inifile (= 0.9.0)
   iterm2 (= 1.0.0)
-  java (= 1.0.0)
-  macvim (= 1.0.0)
+  java (= 1.0.6)
   macvim (= 1.0.0)
   mongodb (= 1.0.0)
   nginx (= 1.1.0)
   nodejs (= 1.0.0)
   nvm (= 1.0.0)
-  python (= 1.0.0)
+  python (= 1.1.1)
   ruby (= 3.1.0)
   stdlib (= 3.0.0)
-  sublime_text_2 (= 1.0.0)
+  sublime_text_2 (= 1.1.0)
   sudo (= 1.0.0)
-  virtualbox (= 1.0.0)
+  virtualbox (= 1.0.1)
   xquartz (= 1.0.0)
 
