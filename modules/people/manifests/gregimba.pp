@@ -9,4 +9,5 @@ class people::gregimba {
 	include iterm2::stable
 	include virtualbox
 	include java
+	include clojure
 }
