@@ -6,4 +6,5 @@ class people::gregimba {
 	include macvim
 	include sublime_text_2
 	include iterm2::stable
+	include virtualbox
 }
