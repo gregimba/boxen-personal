@@ -69,11 +69,6 @@ GITHUBTARBALL
     nodejs (2.0.0)
 
 GITHUBTARBALL
-  remote: boxen/puppet-nvm
-  specs:
-    nvm (1.0.0)
-
-GITHUBTARBALL
   remote: boxen/puppet-python
   specs:
     python (1.1.1)
@@ -129,7 +124,6 @@ DEPENDENCIES
   mongodb (= 1.0.0)
   nginx (= 1.1.0)
   nodejs (= 2.0.0)
-  nvm (= 1.0.0)
   python (= 1.1.1)
   ruby (= 3.3.1)
   stdlib (= 3.0.0)
